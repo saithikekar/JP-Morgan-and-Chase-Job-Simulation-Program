@@ -1,2 +1,2 @@
-# JP-Morgan-and-Chase-Job-Simulation-Program
-This Program was provided by Forage
+# JPMC Task 2
+Starter repo for task 2 of JPMC's Forage program
